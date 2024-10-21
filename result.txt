@@ -1,0 +1,13 @@
+Number of words in AlwaysRememberUsThisWay.txt: 223
+Number of words in IF.txt: 287
+Total number of words in all files: 510
+
+Top 3 most frequent words in IF.txt:
+'and': 16 occurrences
+'if': 14 occurrences
+'you': 14 occurrences
+
+Top 3 most frequent words in AlwaysRememberUsThisWay.txt:
+'the': 13 occurrences
+'i': 11 occurrences
+'when': 7 occurrences
