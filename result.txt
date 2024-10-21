@@ -1,4 +1,4 @@
-IP Address: 127.0.0.1
+IP Address: 
 Number of words in AlwaysRememberUsThisWay.txt: 223
 Number of words in IF.txt: 287
 Total number of words in all files: 510
